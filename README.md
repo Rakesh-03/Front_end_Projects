@@ -1,6 +1,6 @@
 # Front_end_Projects
 
-**Functionality Of the TODOS Application:**
+**Functionality Of the TODOS Application : **
 
 **Adding To-Do Items:**
 
@@ -29,3 +29,6 @@ The "Save" button allows users to save their to-do list to local storage.
 
 Local storage is used to store the to-do list data.
 Data is retained even after refreshing the page or closing the browser.
+
+
+
