@@ -1,6 +1,7 @@
 # Front_end_Projects
 
 **Functionality Of the TODOS Application:**
+
 **Adding To-Do Items:**
 
 Users can enter tasks in an input field.
