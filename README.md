@@ -1,6 +1,6 @@
 # Front_end_Projects
 
-**Functionality Of the TODOS Application : **
+**Functionality Of the TODOS Application: **
 
 **Adding To-Do Items:**
 
